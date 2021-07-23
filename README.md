@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ho3ein451990
 - 👀 I’m interested in becoming a professional programmer
-- 🌱 I’m currently learning c and soon will start java
+- 🌱 I’m currently learning c and soon  java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @Ho3einbm177 tlg ID
 
